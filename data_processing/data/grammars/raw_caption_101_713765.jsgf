@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een treinspoor overgangsspoor met een bus en auto s die het wachten zijn;

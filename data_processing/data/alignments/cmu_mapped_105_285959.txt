@@ -1,0 +1,15 @@
+een rommelig bureau met verschillende mokken en een schrijfblok
+<sil> 0.000 3.310 1.000000
+een 3.320 3.550 1.000000
+<sil> 3.560 3.580 1.000000
+rommelig 3.590 3.930 1.000000
+bureau 3.940 4.400 1.000000
+<sil> 4.410 4.430 1.000000
+met 4.440 4.520 1.000000
+verschillende 4.530 6.370 1.000000
+<sil> 6.380 6.710 1.000000
+mokken 6.720 7.070 1.000000
+en 7.080 7.190 1.000000
+<sil> 7.200 7.490 1.000000
+een 7.500 7.730 1.000000
+schrijfblok 7.740 8.380 1.000000

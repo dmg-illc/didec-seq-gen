@@ -1,0 +1,1 @@
+Here, put the bordered images from DIDEC (.bmp).

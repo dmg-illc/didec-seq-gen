@@ -1,0 +1,16 @@
+drie vrouwen die bij een parkeerautomaat staan met verschillende kleuren kleding aan
+<sil> 0.000 0.100 1.000000
+<sil> 0.110 1.860 1.000000
+drie 1.870 2.120 1.000000
+vrouwen 2.130 2.540 1.000000
+die 2.550 2.720 1.000000
+bij 2.730 2.920 1.000000
+een 2.930 3.000 1.000000
+parkeerautomaat 3.010 3.910 1.000000
+staan 3.920 4.300 1.000000
+met 4.310 4.430 1.000000
+verschillende 4.440 4.900 1.000000
+kleuren 4.910 5.220 1.000000
+kleding 5.230 5.660 1.000000
+aan 5.670 6.080 1.000000
+<sil> 6.090 6.900 1.000000

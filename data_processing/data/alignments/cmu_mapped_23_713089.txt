@@ -1,0 +1,13 @@
+meisje met een beugel die d'r haar heeft ingevlochten voor een deel
+meisje 0.000 2.000 1.000000
+met 2.010 2.220 1.000000
+een 2.230 2.400 1.000000
+beugel 2.410 3.530 1.000000
+die 3.540 3.830 1.000000
+d'r 3.840 3.940 1.000000
+haar 3.950 4.120 1.000000
+heeft 4.130 4.320 1.000000
+ingevlochten 4.330 5.060 1.000000
+voor 5.070 5.160 1.000000
+een 5.170 5.570 1.000000
+deel 5.580 7.030 1.000000

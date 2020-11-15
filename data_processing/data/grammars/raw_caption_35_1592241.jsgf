@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een rij auto's moet st wachten voor een stopbord;

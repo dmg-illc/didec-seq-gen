@@ -1,0 +1,12 @@
+een hele grote witte vrachtwagen met daarachter een auto
+<sil> 0.000 5.700 1.000000
+een 5.710 5.860 1.000000
+hele 5.870 6.070 1.000000
+grote 6.080 6.450 1.000000
+witte 6.460 6.690 1.000000
+vrachtwagen 6.700 7.200 1.000000
+met 7.210 7.340 1.000000
+daarachter 7.350 7.790 1.000000
+een 7.800 7.950 1.000000
+auto 7.960 8.230 1.000000
+<sil> 8.240 9.100 1.000000

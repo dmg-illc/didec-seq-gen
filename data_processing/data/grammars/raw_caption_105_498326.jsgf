@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een dubbele bus of een dubbeldekkerbus rijdt door een straat;

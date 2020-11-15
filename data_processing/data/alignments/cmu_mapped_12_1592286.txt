@@ -1,0 +1,16 @@
+verschillende soorten hapjes op tafel die met stokjes gegeten moeten worden
+<sil> 0.000 0.150 1.000000
+<sil> 0.160 3.310 1.000000
+<sil> 3.320 3.460 1.000000
+verschillende 3.470 3.820 1.000000
+soorten 3.830 4.100 1.000000
+hapjes 4.110 4.430 1.000000
+op 4.440 4.530 1.000000
+tafel 4.540 4.870 1.000000
+die 4.880 5.000 1.000000
+met 5.010 5.140 1.000000
+stokjes 5.150 5.650 1.000000
+gegeten 5.660 6.070 1.000000
+moeten 6.080 6.290 1.000000
+worden 6.300 6.510 1.000000
+<sil> 6.520 6.680 1.000000

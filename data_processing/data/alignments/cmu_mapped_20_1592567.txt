@@ -1,0 +1,16 @@
+harley-davidson winkel met motoren ervoor mensen die over straat lopen
+<sil> 0.000 0.240 1.000000
+<sil> 0.250 1.460 1.000000
+<sil> 1.470 2.710 1.000000
+harley-davidson 2.720 4.000 1.000000
+winkel 4.010 4.810 1.000000
+<sil> 4.820 5.790 1.000000
+met 5.800 6.110 1.000000
+motoren 6.120 6.750 1.000000
+ervoor 6.760 7.510 1.000000
+<sil> 7.520 7.550 1.000000
+mensen 7.560 7.980 1.000000
+die 7.990 8.150 1.000000
+over 8.160 8.350 1.000000
+straat 8.360 8.690 1.000000
+lopen 8.700 8.990 1.000000

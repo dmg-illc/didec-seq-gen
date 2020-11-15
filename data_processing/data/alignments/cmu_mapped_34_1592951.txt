@@ -1,0 +1,14 @@
+een grote boot waar verschillende auto's en dergelijke opstaan
+<sil> 0.000 0.140 1.000000
+<sil> 0.150 2.440 1.000000
+<sil> 2.450 3.770 1.000000
+een 3.780 4.230 1.000000
+grote 4.240 4.860 1.000000
+<sil> 4.870 4.990 1.000000
+boot 5.000 5.340 1.000000
+waar 5.350 5.460 1.000000
+verschillende 5.470 5.950 1.000000
+auto's 5.960 6.410 1.000000
+en 6.420 6.540 1.000000
+dergelijke 6.550 6.890 1.000000
+opstaan 6.900 7.500 1.000000

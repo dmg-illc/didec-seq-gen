@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een kruispunt waarbij het stoplicht voor fietsers op s aan de ene kant voor rood en aan de andere kant voor op groen staat;

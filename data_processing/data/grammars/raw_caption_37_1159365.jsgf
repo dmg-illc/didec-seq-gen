@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = verkeer staat stil voor een stopbord waarbij een bus langsrijdt;

@@ -1,0 +1,12 @@
+een slaapkamer waarbij de computer aanstaat en ook een tv heeft
+een 1.210 2.230 1.000000
+slaapkamer 2.240 2.990 1.000000
+waarbij 3.000 3.350 1.000000
+de 3.360 3.480 1.000000
+computer 3.490 4.080 1.000000
+aanstaat 4.090 4.640 1.000000
+en 4.650 4.760 1.000000
+ook 4.770 4.890 1.000000
+een 4.900 4.950 1.000000
+tv 4.960 5.300 1.000000
+heeft 5.310 5.990 1.000000

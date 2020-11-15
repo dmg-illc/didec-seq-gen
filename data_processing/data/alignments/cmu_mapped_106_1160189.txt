@@ -1,0 +1,10 @@
+een hotelkamer met opgevouwen handdoeken
+<sil> 0.000 0.880 1.000000
+<sil> 0.890 1.410 1.000000
+een 1.420 1.590 1.000000
+hotelkamer 1.600 2.860 1.000000
+<sil> 2.870 3.180 1.000000
+met 3.190 3.490 1.000000
+opgevouwen 3.500 3.960 1.000000
+handdoeken 3.970 4.440 1.000000
+<sil> 4.450 5.810 1.000000

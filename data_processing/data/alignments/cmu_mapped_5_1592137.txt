@@ -1,0 +1,10 @@
+heel veel verschillende kleurtje kleuren parasol
+<sil> 0.000 0.140 1.000000
+<sil> 0.150 3.580 1.000000
+heel 3.590 3.930 1.000000
+veel 3.940 4.170 1.000000
+verschillende 4.180 4.800 1.000000
+kleurtje 4.810 5.230 1.000000
+kleuren 5.240 5.690 1.000000
+parasol 5.700 6.270 1.000000
+<sil> 6.280 6.580 1.000000

@@ -1,0 +1,11 @@
+verschillende mannen staan in de vergaderruimte te praten
+verschillende 0.000 3.160 1.000000
+mannen 3.170 3.460 1.000000
+staan 3.470 3.820 1.000000
+in 3.830 3.910 1.000000
+de 3.920 3.980 1.000000
+vergaderruimte 3.990 5.240 1.000000
+<sil> 5.250 5.280 1.000000
+te 5.290 5.380 1.000000
+praten 5.390 6.050 1.000000
+<sil> 6.060 6.510 1.000000

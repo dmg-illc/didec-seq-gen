@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = verschillende stoprichten stoplichten die op rood staan en er staan geen auto's voor te wachten;

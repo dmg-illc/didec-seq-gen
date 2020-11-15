@@ -1,0 +1,14 @@
+uitzicht vanuit een luchthaven met een vliegtuig van lufthansa
+<sil> 0.000 1.840 1.000000
+<sil> 1.850 2.590 1.000000
+uitzicht 2.600 3.160 1.000000
+vanuit 3.170 3.380 1.000000
+een 3.390 3.500 1.000000
+luchthaven 3.510 4.040 1.000000
+<sil> 4.050 4.200 1.000000
+met 4.210 4.440 1.000000
+een 4.450 4.530 1.000000
+vliegtuig 4.540 5.200 1.000000
+van 5.210 5.350 1.000000
+lufthansa 5.360 6.000 1.000000
+<sil> 6.010 6.680 1.000000

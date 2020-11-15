@@ -1,0 +1,16 @@
+een grote dubbeldekkerbus met daarachter nog een kleinere dubbeldekkerbus
+<sil> 0.000 0.100 1.000000
+<sil> 0.110 1.320 1.000000
+een 1.330 2.630 1.000000
+<sil> 2.640 2.770 1.000000
+grote 2.780 3.230 1.000000
+<sil> 3.240 3.340 1.000000
+dubbeldekkerbus 3.350 4.370 1.000000
+met 4.380 4.500 1.000000
+daarachter 4.510 5.030 1.000000
+nog 5.040 5.220 1.000000
+een 5.230 5.370 1.000000
+kleinere 5.380 6.080 1.000000
+<sil> 6.090 6.720 1.000000
+dubbeldekkerbus 6.730 7.810 1.000000
+<sil> 7.820 8.380 1.000000

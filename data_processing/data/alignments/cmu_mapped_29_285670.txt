@@ -1,0 +1,11 @@
+twee gekleurde bussen naast elkaar die stilstaan
+<sil> 0.000 0.250 1.000000
+<sil> 0.260 2.260 1.000000
+twee 2.270 2.610 1.000000
+gekleurde 2.620 3.220 1.000000
+bussen 3.230 3.660 1.000000
+naast 3.670 4.120 1.000000
+elkaar 4.130 4.560 1.000000
+die 4.570 4.740 1.000000
+stilstaan 4.750 5.550 1.000000
+<sil> 5.560 6.580 1.000000

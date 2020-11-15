@@ -1,0 +1,10 @@
+een keuken met daarin gebouwd een strijkijzer
+<sil> 0.000 2.810 1.000000
+een 2.820 2.940 1.000000
+keuken 2.950 3.310 1.000000
+met 3.320 3.460 1.000000
+daarin 3.470 3.770 1.000000
+gebouwd 3.780 4.120 1.000000
+een 4.130 4.220 1.000000
+strijkijzer 4.230 5.180 1.000000
+<sil> 5.190 5.480 1.000000

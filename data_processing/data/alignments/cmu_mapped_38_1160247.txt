@@ -1,0 +1,14 @@
+een aanmoediging of demonstratie achter dranghekken ergens op straat
+<sil> 0.000 0.120 1.000000
+<sil> 0.130 5.370 1.000000
+een 5.380 5.690 1.000000
+aanmoediging 5.700 6.330 1.000000
+of 6.340 6.420 1.000000
+demonstratie 6.430 7.200 1.000000
+achter 7.210 7.570 1.000000
+dranghekken 7.580 8.150 1.000000
+ergens 8.160 8.530 1.000000
+op 8.540 8.630 1.000000
+straat 8.640 9.220 1.000000
+<sil> 9.230 9.590 1.000000
+<sil> 9.600 9.690 1.000000

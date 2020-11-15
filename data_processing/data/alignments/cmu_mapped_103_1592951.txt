@@ -1,0 +1,14 @@
+een vrachtschip met vrachtwagens met daarop kleinere vrachtwagens
+een 0.000 0.050 1.000000
+vrachtschip 0.060 6.040 1.000000
+<sil> 6.050 7.420 1.000000
+met 7.430 7.860 1.000000
+<sil> 7.870 7.950 1.000000
+vrachtwagens 7.960 8.930 1.000000
+met 8.940 9.120 1.000000
+daarop 9.130 9.760 1.000000
+<sil> 9.770 10.300 1.000000
+<sil> 10.310 10.420 1.000000
+kleinere 10.430 10.920 1.000000
+vrachtwagens 10.930 11.860 1.000000
+<sil> 11.870 12.520 1.000000

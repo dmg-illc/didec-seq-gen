@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een stel dat in de keuken staat met een stapel borden;

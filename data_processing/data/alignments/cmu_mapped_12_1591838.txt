@@ -1,0 +1,16 @@
+een computer waarop halo drie gespeeld wordt met daarnaast een laptop op een verhoging
+<sil> 0.000 6.540 1.000000
+een 6.550 6.720 1.000000
+computer 6.730 7.230 1.000000
+waarop 7.240 7.550 1.000000
+halo 7.560 7.930 1.000000
+drie 7.940 8.190 1.000000
+gespeeld 8.200 8.610 1.000000
+wordt 8.620 8.770 1.000000
+met 8.780 8.890 1.000000
+daarnaast 8.900 9.340 1.000000
+een 9.350 9.470 1.000000
+laptop 9.480 9.870 1.000000
+op 9.880 10.000 1.000000
+een 10.010 10.150 1.000000
+verhoging 10.160 10.720 1.000000

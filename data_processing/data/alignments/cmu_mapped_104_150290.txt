@@ -1,0 +1,17 @@
+een groepsfoto op wintersport waarbij drie mensen aan het snowboarden zijn
+een 0.000 0.050 1.000000
+groepsfoto 0.060 1.380 1.000000
+op 1.390 1.490 1.000000
+<sil> 1.500 1.910 1.000000
+<sil> 1.920 3.310 1.000000
+wintersport 3.320 3.940 1.000000
+<sil> 3.950 4.040 1.000000
+waarbij 4.050 4.420 1.000000
+<sil> 4.430 4.470 1.000000
+drie 4.480 4.690 1.000000
+mensen 4.700 4.950 1.000000
+aan 4.960 5.010 1.000000
+het 5.020 5.100 1.000000
+snowboarden 5.110 5.530 1.000000
+zijn 5.540 5.650 1.000000
+<sil> 5.660 5.830 1.000000

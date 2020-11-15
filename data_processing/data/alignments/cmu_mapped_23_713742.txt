@@ -1,0 +1,7 @@
+verkeer op een redelijk drukke autoweg
+verkeer 1.430 3.400 1.000000
+op 3.410 4.700 1.000000
+een 4.710 4.790 1.000000
+redelijk 4.800 5.190 1.000000
+drukke 5.200 5.790 1.000000
+autoweg 5.800 7.560 1.000000

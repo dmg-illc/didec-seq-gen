@@ -1,0 +1,13 @@
+verschillende vakantiegangers zitten onder een parasol
+<sil> 0.000 0.290 1.000000
+<sil> 0.300 1.780 1.000000
+verschillende 1.790 2.440 1.000000
+vakantiegangers 2.450 3.510 1.000000
+zitten 3.520 4.030 1.000000
+onder 4.040 4.540 1.000000
+een 4.550 4.890 1.000000
+<sil> 4.900 4.930 1.000000
+parasol 4.940 5.350 1.000000
+<sil> 5.360 5.800 1.000000
+<sil> 5.810 6.070 1.000000
+<sil> 6.080 6.700 1.000000

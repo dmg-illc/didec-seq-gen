@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een groep mensen die aan het eten zijn in een restaurant;

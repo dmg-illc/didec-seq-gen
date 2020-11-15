@@ -1,0 +1,17 @@
+er komen een aantal rode bussen aanrijden die het kruispunt over moeten steken
+<sil> 0.000 1.220 1.000000
+<sil> 1.230 2.800 1.000000
+er 2.810 2.940 1.000000
+komen 2.950 3.270 1.000000
+een 3.280 3.330 1.000000
+aantal 3.340 3.660 1.000000
+rode 3.670 3.960 1.000000
+bussen 3.970 4.390 1.000000
+aanrijden 4.400 5.130 1.000000
+<sil> 5.140 5.180 1.000000
+die 5.190 5.550 1.000000
+het 5.560 5.710 1.000000
+kruispunt 5.720 6.260 1.000000
+over 6.270 6.400 1.000000
+moeten 6.410 6.640 1.000000
+steken 6.650 7.400 1.000000

@@ -1,0 +1,17 @@
+een spoorwegovergang met een met historische treinstellen op de achtergrond
+<sil> 0.000 0.220 1.000000
+<sil> 0.230 4.590 1.000000
+<sil> 4.600 5.470 1.000000
+een 5.480 5.590 1.000000
+spoorwegovergang 5.600 6.640 1.000000
+met 6.650 6.830 1.000000
+een 6.840 7.260 1.000000
+met 7.270 7.350 1.000000
+<sil> 7.360 8.470 1.000000
+historische 8.480 9.010 1.000000
+treinstellen 9.020 9.730 1.000000
+op 9.740 9.830 1.000000
+de 9.840 10.150 1.000000
+<sil> 10.160 10.220 1.000000
+achtergrond 10.230 10.830 1.000000
+<sil> 10.840 13.120 1.000000

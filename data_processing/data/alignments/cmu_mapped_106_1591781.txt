@@ -1,0 +1,10 @@
+een tafel met daarop verschillende kaarsen
+<sil> 0.000 0.880 1.000000
+<sil> 0.890 1.380 1.000000
+een 1.390 1.500 1.000000
+tafel 1.510 2.170 1.000000
+met 2.180 2.360 1.000000
+daarop 2.370 2.690 1.000000
+verschillende 2.700 3.370 1.000000
+kaarsen 3.380 3.990 1.000000
+<sil> 4.000 5.210 1.000000

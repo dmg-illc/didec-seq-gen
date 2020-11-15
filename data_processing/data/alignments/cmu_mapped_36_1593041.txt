@@ -1,0 +1,7 @@
+een koelkast met daarin flesjes bier
+een 0.480 0.530 1.000000
+koelkast 0.540 1.920 1.000000
+met 1.930 2.020 1.000000
+daarin 2.030 2.460 1.000000
+flesjes 2.470 3.860 1.000000
+bier 3.870 5.500 1.000000

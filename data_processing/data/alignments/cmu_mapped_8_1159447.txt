@@ -1,0 +1,6 @@
+een televisieprogramma
+<sil> 0.000 0.140 1.000000
+<sil> 0.150 1.460 1.000000
+een 1.470 1.560 1.000000
+televisieprogramma 1.570 2.680 1.000000
+<sil> 2.690 3.080 1.000000

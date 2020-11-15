@@ -1,0 +1,17 @@
+foto van een wintersportgebied waar mensen aan het skiën en het snowboarden zijn
+<sil> 0.000 0.750 1.000000
+<sil> 0.760 0.870 1.000000
+foto 0.880 1.100 1.000000
+van 1.110 1.250 1.000000
+een 1.260 1.390 1.000000
+wintersportgebied 1.400 2.420 1.000000
+waar 2.430 2.550 1.000000
+mensen 2.560 2.900 1.000000
+aan 2.910 3.050 1.000000
+het 3.060 3.140 1.000000
+skiën 3.150 3.470 1.000000
+en 3.480 3.530 1.000000
+het 3.540 3.670 1.000000
+snowboarden 3.680 4.170 1.000000
+zijn 4.180 4.570 1.000000
+<sil> 4.580 4.770 1.000000

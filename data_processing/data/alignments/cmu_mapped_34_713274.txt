@@ -1,0 +1,13 @@
+een groep vrienden of familie die op wintersportvakantie zijn
+<sil> 0.000 0.140 1.000000
+<sil> 0.150 0.980 1.000000
+een 0.990 1.280 1.000000
+groep 1.290 1.500 1.000000
+vrienden 1.510 1.900 1.000000
+of 1.910 2.030 1.000000
+familie 2.040 2.480 1.000000
+die 2.490 2.840 1.000000
+op 2.850 2.930 1.000000
+wintersportvakantie 2.940 3.930 1.000000
+zijn 3.940 4.320 1.000000
+<sil> 4.330 5.340 1.000000

@@ -1,0 +1,6 @@
+twee dubbeldekkerbussen
+<sil> 0.000 0.300 1.000000
+<sil> 0.310 2.170 1.000000
+twee 2.180 2.500 1.000000
+dubbeldekkerbussen 2.510 3.890 1.000000
+<sil> 3.900 6.040 1.000000

@@ -1,0 +1,11 @@
+een uitschuif strijkplank met daarop een strijkbout
+een 0.000 0.050 1.000000
+uitschuif 0.060 3.860 1.000000
+<sil> 3.870 4.810 1.000000
+strijkplank 4.820 5.560 1.000000
+<sil> 5.570 5.620 1.000000
+met 5.630 5.750 1.000000
+daarop 5.760 5.980 1.000000
+een 5.990 6.100 1.000000
+strijkbout 6.110 6.890 1.000000
+<sil> 6.900 7.710 1.000000

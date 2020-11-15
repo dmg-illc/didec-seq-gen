@@ -1,0 +1,10 @@
+een keuken met ouderwetse apparatuur en keukenspullen
+<sil> 0.000 1.250 1.000000
+<sil> 1.260 1.830 1.000000
+een 1.840 1.990 1.000000
+keuken 2.000 2.250 1.000000
+met 2.260 2.430 1.000000
+ouderwetse 2.440 2.860 1.000000
+apparatuur 2.870 3.440 1.000000
+en 3.450 3.580 1.000000
+keukenspullen 3.590 4.190 1.000000

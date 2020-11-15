@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een spoorweg overgang met daarachter een bus en auto's die wachten totdat ze mogen rijden;

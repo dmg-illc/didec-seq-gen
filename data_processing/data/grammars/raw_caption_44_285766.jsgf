@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = dit is een treinstation waar een trein een goederentrein aan komt rijden;

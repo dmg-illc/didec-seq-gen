@@ -1,0 +1,10 @@
+verschillende donuts die net worden afgebakken
+<sil> 0.000 6.690 1.000000
+<sil> 6.700 7.100 1.000000
+verschillende 7.110 7.750 1.000000
+donuts 7.760 8.090 1.000000
+die 8.100 8.180 1.000000
+net 8.190 8.390 1.000000
+worden 8.400 8.600 1.000000
+afgebakken 8.610 9.160 1.000000
+<sil> 9.170 9.410 1.000000

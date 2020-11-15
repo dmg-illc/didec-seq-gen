@@ -1,0 +1,11 @@
+een mevrouw die groente en fruit verkoopt op straat
+<sil> 0.000 1.410 1.000000
+een 1.420 1.860 1.000000
+mevrouw 1.870 2.480 1.000000
+die 2.490 2.830 1.000000
+groente 2.840 3.160 1.000000
+en 3.170 3.330 1.000000
+fruit 3.340 3.720 1.000000
+verkoopt 3.730 4.160 1.000000
+op 4.170 4.240 1.000000
+straat 4.250 5.000 1.000000

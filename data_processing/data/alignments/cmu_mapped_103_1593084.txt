@@ -1,0 +1,13 @@
+ver uitzicht over een skigebied met besneeuwde bergtoppen
+ver 0.000 5.640 1.000000
+<sil> 5.650 6.180 1.000000
+uitzicht 6.190 6.970 1.000000
+over 6.980 7.570 1.000000
+een 7.580 7.920 1.000000
+skigebied 7.930 8.950 1.000000
+<sil> 8.960 8.980 1.000000
+met 8.990 9.510 1.000000
+<sil> 9.520 9.980 1.000000
+besneeuwde 9.990 10.820 1.000000
+bergtoppen 10.830 11.600 1.000000
+<sil> 11.610 12.100 1.000000

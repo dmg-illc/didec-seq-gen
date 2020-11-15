@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = het ene stoplicht staat op groen en het andere stoplicht staat op rood en de auto's die staan te wachten voor het stoplicht;

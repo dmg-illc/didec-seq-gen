@@ -1,0 +1,12 @@
+uh een oversteekplaats groot kruispunt met tankstation
+<sil> 0.000 0.150 1.000000
+<sil> 0.160 1.780 1.000000
+uh 1.790 2.790 1.000000
+een 2.800 3.210 1.000000
+oversteekplaats 3.220 4.220 1.000000
+groot 4.230 4.470 1.000000
+kruispunt 4.480 5.270 1.000000
+met 5.280 5.510 1.000000
+<sil> 5.520 6.200 1.000000
+tankstation 6.210 6.750 1.000000
+<sil> 6.760 7.400 1.000000

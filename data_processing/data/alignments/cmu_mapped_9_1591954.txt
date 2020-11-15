@@ -1,0 +1,17 @@
+een rommelmarkt met iemand die onder andere een teddybeer en een schilderij verkoopt
+<sil> 0.000 0.250 1.000000
+<sil> 0.260 1.520 1.000000
+een 1.530 1.890 1.000000
+rommelmarkt 1.900 2.890 1.000000
+met 2.900 3.210 1.000000
+iemand 3.220 3.530 1.000000
+die 3.540 3.820 1.000000
+onder 3.830 4.050 1.000000
+andere 4.060 4.430 1.000000
+een 4.440 4.670 1.000000
+teddybeer 4.680 5.290 1.000000
+en 5.300 5.420 1.000000
+een 5.430 5.500 1.000000
+schilderij 5.510 6.130 1.000000
+verkoopt 6.140 6.820 1.000000
+<sil> 6.830 7.180 1.000000

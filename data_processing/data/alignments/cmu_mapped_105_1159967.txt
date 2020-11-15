@@ -1,0 +1,9 @@
+verschillende vrouwen bereiden eten voor
+verschillende 0.000 5.270 1.000000
+vrouwen 5.280 5.610 1.000000
+bereiden 5.620 6.010 1.000000
+<sil> 6.020 6.420 1.000000
+<sil> 6.430 7.420 1.000000
+eten 7.430 7.770 1.000000
+voor 7.780 8.310 1.000000
+<sil> 8.320 9.080 1.000000

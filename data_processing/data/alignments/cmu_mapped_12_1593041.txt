@@ -1,0 +1,11 @@
+een ijskast gevuld met verschillende soorten drank
+<sil> 0.000 0.120 1.000000
+<sil> 0.130 2.640 1.000000
+een 2.650 2.810 1.000000
+ijskast 2.820 3.510 1.000000
+gevuld 3.520 3.910 1.000000
+met 3.920 4.080 1.000000
+verschillende 4.090 4.490 1.000000
+soorten 4.500 4.760 1.000000
+drank 4.770 5.090 1.000000
+<sil> 5.100 5.310 1.000000

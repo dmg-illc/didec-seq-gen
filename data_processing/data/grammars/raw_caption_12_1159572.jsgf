@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = splitsing van verschillende wegen met aan de voorkant een busbaan;

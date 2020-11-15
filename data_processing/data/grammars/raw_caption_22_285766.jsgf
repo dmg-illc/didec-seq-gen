@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een goederentrein die aankomt of langs het spoor aankomt;

@@ -1,0 +1,17 @@
+een vrouw die achterstevoren op een bureaustoel zit en kijkt naar een computer
+een 0.000 0.050 1.000000
+vrouw 0.060 2.820 1.000000
+die 2.830 3.000 1.000000
+achterstevoren 3.010 3.790 1.000000
+op 3.800 3.940 1.000000
+een 3.950 4.140 1.000000
+bureaustoel 4.150 4.730 1.000000
+zit 4.740 5.050 1.000000
+<sil> 5.060 5.550 1.000000
+en 5.560 5.640 1.000000
+kijkt 5.650 5.870 1.000000
+naar 5.880 6.020 1.000000
+een 6.030 6.120 1.000000
+computer 6.130 6.690 1.000000
+<sil> 6.700 7.450 1.000000
+<sil> 7.460 7.640 1.000000

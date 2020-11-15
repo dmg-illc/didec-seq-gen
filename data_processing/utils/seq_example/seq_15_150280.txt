@@ -1,0 +1,39 @@
+14 15 150280
+een
+COUNT 1
+geel
+COUNT 2
+bootje
+COUNT 3
+liggend
+COUNT 4
+in
+COUNT 5
+de
+COUNT 6
+zee
+COUNT 7
+tussen
+COUNT 8
+twee
+COUNT 9
+rotsen
+COUNT 10
+waar
+COUNT 11
+de
+COUNT 12
+vogels
+COUNT 13
+vol
+COUNT 14
+op
+COUNT 15
+aan
+COUNT 16
+het
+COUNT 17
+vliegen
+COUNT 18
+zijn
+COUNT 19

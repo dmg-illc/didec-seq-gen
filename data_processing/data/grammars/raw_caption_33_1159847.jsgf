@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = je ziet een stad met een bus met het nummer 46;

@@ -1,0 +1,16 @@
+drukke verkeer waar iedereen verkeerslichten aanheeft tenminste koplampen aanheeft
+<sil> 0.000 0.110 1.000000
+<sil> 0.120 4.620 1.000000
+<sil> 4.630 5.420 1.000000
+<sil> 5.430 6.470 1.000000
+drukke 6.480 6.880 1.000000
+verkeer 6.890 7.340 1.000000
+waar 7.350 7.490 1.000000
+iedereen 7.500 7.790 1.000000
+verkeerslichten 7.800 8.590 1.000000
+aanheeft 8.600 9.360 1.000000
+<sil> 9.370 9.830 1.000000
+tenminste 9.840 10.120 1.000000
+koplampen 10.130 10.610 1.000000
+aanheeft 10.620 11.250 1.000000
+<sil> 11.260 11.490 1.000000

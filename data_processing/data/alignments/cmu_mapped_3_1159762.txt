@@ -1,0 +1,10 @@
+een donkergroen voertuig dat er ouderwets uitziet
+<sil> 0.000 2.510 1.000000
+<sil> 2.520 3.310 1.000000
+een 3.320 3.510 1.000000
+donkergroen 3.520 4.010 1.000000
+voertuig 4.020 4.500 1.000000
+dat 4.510 4.690 1.000000
+er 4.700 4.820 1.000000
+ouderwets 4.830 5.280 1.000000
+uitziet 5.290 5.910 1.000000

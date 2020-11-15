@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een boekenkast is gevuld met verschillende dvd's en boeken;

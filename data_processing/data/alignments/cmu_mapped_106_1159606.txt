@@ -1,0 +1,7 @@
+computerschermen die aanstaan
+<sil> 0.000 1.250 1.000000
+<sil> 1.260 1.570 1.000000
+computerschermen 1.580 2.440 1.000000
+die 2.450 2.580 1.000000
+aanstaan 2.590 3.210 1.000000
+<sil> 3.220 4.530 1.000000

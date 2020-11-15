@@ -1,0 +1,13 @@
+een groep snowboarders wachtende tot een foto wordt gemaakt
+<sil> 0.000 0.120 1.000000
+<sil> 0.130 4.210 1.000000
+<sil> 4.220 4.550 1.000000
+een 4.560 4.660 1.000000
+groep 4.670 4.930 1.000000
+snowboarders 4.940 5.530 1.000000
+wachtende 5.540 6.010 1.000000
+tot 6.020 6.150 1.000000
+een 6.160 6.230 1.000000
+foto 6.240 6.570 1.000000
+wordt 6.580 6.750 1.000000
+gemaakt 6.760 7.180 1.000000

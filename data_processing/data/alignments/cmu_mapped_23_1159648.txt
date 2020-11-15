@@ -1,0 +1,8 @@
+winkelstraat verschillende mensen
+<sil> 0.000 3.360 1.000000
+<sil> 3.370 3.890 1.000000
+winkelstraat 3.900 4.920 1.000000
+<sil> 4.930 6.150 1.000000
+verschillende 6.160 6.710 1.000000
+<sil> 6.720 6.740 1.000000
+mensen 6.750 7.180 1.000000

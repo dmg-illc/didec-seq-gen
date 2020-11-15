@@ -1,0 +1,12 @@
+een foto van gepocheerde paprika met aardappeltjes en kip
+een 0.000 0.050 1.000000
+foto 0.060 3.160 1.000000
+van 3.170 3.530 1.000000
+gepocheerde 3.540 4.090 1.000000
+paprika 4.100 4.680 1.000000
+met 4.690 5.170 1.000000
+<sil> 5.180 5.850 1.000000
+aardappeltjes 5.860 6.430 1.000000
+en 6.440 6.510 1.000000
+kip 6.520 6.750 1.000000
+<sil> 6.760 6.830 1.000000

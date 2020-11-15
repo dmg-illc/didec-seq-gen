@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een stad met een tram en een bus die elkaar passeren;

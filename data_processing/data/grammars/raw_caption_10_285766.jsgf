@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een treinstation waar net een trein aankomt met diverse containers erachteraan mensen die op de trein aan het wachten staan;

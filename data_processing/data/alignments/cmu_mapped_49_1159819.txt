@@ -1,0 +1,8 @@
+mensen zijn uitgestapt van de olifant
+mensen 4.690 5.250 1.000000
+<sil> 5.260 5.450 1.000000
+zijn 5.460 5.540 1.000000
+uitgestapt 5.550 5.990 1.000000
+van 6.000 6.090 1.000000
+de 6.100 6.180 1.000000
+olifant 6.190 7.190 1.000000

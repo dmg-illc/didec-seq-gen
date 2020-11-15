@@ -1,0 +1,12 @@
+een roze verjaardagstaart aansnijden voor een kind
+<sil> 0.000 0.250 1.000000
+<sil> 0.260 0.900 1.000000
+<sil> 0.910 1.290 1.000000
+een 1.300 1.520 1.000000
+roze 1.530 1.910 1.000000
+verjaardagstaart 1.920 2.560 1.000000
+aansnijden 2.570 3.090 1.000000
+voor 3.100 3.230 1.000000
+een 3.240 3.330 1.000000
+kind 3.340 3.680 1.000000
+<sil> 3.690 4.000 1.000000

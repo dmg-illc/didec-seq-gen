@@ -1,0 +1,13 @@
+een kleine jongen zit op een oude ongerestaureerde harley-davidson
+<sil> 0.000 1.790 1.000000
+een 1.800 1.910 1.000000
+kleine 1.920 2.220 1.000000
+jongen 2.230 2.540 1.000000
+zit 2.550 2.740 1.000000
+op 2.750 2.860 1.000000
+een 2.870 3.050 1.000000
+oude 3.060 3.400 1.000000
+ongerestaureerde 3.410 4.210 1.000000
+harley-davidson 4.220 5.010 1.000000
+<sil> 5.020 5.240 1.000000
+<sil> 5.250 5.380 1.000000

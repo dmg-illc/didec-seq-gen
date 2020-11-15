@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een trein of tram halte met een trein of tram die aan het perron staat en de andere die aan het wegrijden is die d'r langs heen rijdt;

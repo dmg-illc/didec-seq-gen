@@ -1,0 +1,13 @@
+vier computerschermen naast elkaar met allemaal verschillende tabbladen geopend
+vier 0.000 2.360 1.000000
+<sil> 2.370 2.570 1.000000
+computerschermen 2.580 3.320 1.000000
+naast 3.330 3.580 1.000000
+elkaar 3.590 4.290 1.000000
+<sil> 4.300 7.410 1.000000
+met 7.420 7.590 1.000000
+allemaal 7.600 7.950 1.000000
+verschillende 7.960 8.330 1.000000
+tabbladen 8.340 8.760 1.000000
+geopend 8.770 9.320 1.000000
+<sil> 9.330 9.410 1.000000

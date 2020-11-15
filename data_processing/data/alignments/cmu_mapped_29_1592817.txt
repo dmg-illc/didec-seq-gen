@@ -1,0 +1,16 @@
+drie beeldschermen waarvan twee laptops zijn en een normale computer
+<sil> 0.000 0.210 1.000000
+<sil> 0.220 1.160 1.000000
+<sil> 1.170 1.600 1.000000
+drie 1.610 1.900 1.000000
+beeldschermen 1.910 2.700 1.000000
+waarvan 2.710 3.030 1.000000
+twee 3.040 3.300 1.000000
+<sil> 3.310 3.330 1.000000
+laptops 3.340 3.770 1.000000
+zijn 3.780 4.000 1.000000
+en 4.010 4.140 1.000000
+een 4.150 4.470 1.000000
+<sil> 4.480 4.500 1.000000
+normale 4.510 4.960 1.000000
+computer 4.970 5.700 1.000000

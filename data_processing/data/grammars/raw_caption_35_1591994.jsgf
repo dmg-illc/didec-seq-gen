@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = bus staat te wachten op het verkeer;

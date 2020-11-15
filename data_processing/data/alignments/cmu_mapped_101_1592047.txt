@@ -1,0 +1,8 @@
+een groen vliegtuig met twee propellers
+een 0.000 0.050 1.000000
+<sil> 0.060 0.200 1.000000
+groen 0.210 0.320 1.000000
+vliegtuig 0.330 6.130 1.000000
+met 6.140 6.270 1.000000
+twee 6.280 6.440 1.000000
+propellers 6.450 7.780 1.000000

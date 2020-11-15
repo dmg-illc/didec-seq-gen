@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = en keuken met een oven die openstaat;

@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een tourbus met nummer 117 die aan de straat voorbij rijdt;

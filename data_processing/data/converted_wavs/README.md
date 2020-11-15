@@ -1,0 +1,1 @@
+Here, we save the audio files from DIDEC converted into the format that can be utilized by CMU Sphinx forced alignment tool.

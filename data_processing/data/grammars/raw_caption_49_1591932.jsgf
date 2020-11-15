@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = het is avond het verkeerslicht staat op rood en er is tegen verkeer;

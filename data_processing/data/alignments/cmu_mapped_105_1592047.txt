@@ -1,0 +1,11 @@
+een vliegveld waar een vliegtuig gereed wordt gemaakt
+een 0.000 0.050 1.000000
+vliegveld 0.060 4.110 1.000000
+waar 4.120 4.200 1.000000
+<sil> 4.210 4.540 1.000000
+een 4.550 4.630 1.000000
+vliegtuig 4.640 6.660 1.000000
+<sil> 6.670 7.290 1.000000
+gereed 7.300 7.600 1.000000
+wordt 7.610 7.930 1.000000
+gemaakt 7.940 8.480 1.000000

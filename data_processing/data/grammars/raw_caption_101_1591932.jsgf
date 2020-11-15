@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een kruispunt dat s nachts is weergegeven met een rood stoplicht;

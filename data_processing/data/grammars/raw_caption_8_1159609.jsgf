@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = etenswaren en drinkwaren op een tafel;

@@ -1,0 +1,11 @@
+drie jongens die hele grote pizza gaan eten pizza margherita
+drie 1.690 1.970 1.000000
+jongens 1.980 2.230 1.000000
+die 2.240 2.660 1.000000
+hele 2.670 3.120 1.000000
+grote 3.130 3.460 1.000000
+pizza 3.470 3.820 1.000000
+gaan 3.830 4.120 1.000000
+eten 4.130 4.430 1.000000
+pizza 4.440 4.690 1.000000
+margherita 4.700 5.380 1.000000

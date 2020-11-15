@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = een auto die voor een stoplicht staat te wachten met meerdere stoplichten in de lucht;

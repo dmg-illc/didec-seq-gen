@@ -1,0 +1,13 @@
+mensen die op bankjes zitten met allemaal gekleurde parasols
+<sil> 0.000 1.810 1.000000
+mensen 1.820 2.240 1.000000
+die 2.250 2.380 1.000000
+op 2.390 2.480 1.000000
+bankjes 2.490 3.020 1.000000
+zitten 3.030 3.400 1.000000
+met 3.410 3.540 1.000000
+<sil> 3.550 3.670 1.000000
+allemaal 3.680 4.140 1.000000
+gekleurde 4.150 4.540 1.000000
+parasols 4.550 5.360 1.000000
+<sil> 5.370 5.730 1.000000

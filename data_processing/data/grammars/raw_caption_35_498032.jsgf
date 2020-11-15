@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <s> = vliegtuig vliegt over uh een groep skiërs;

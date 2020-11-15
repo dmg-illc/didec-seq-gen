@@ -1,0 +1,12 @@
+verschillende kaarsen op een tafel waarvan de helft brandt
+verschillende 0.000 2.920 1.000000
+kaarsen 2.930 3.330 1.000000
+op 3.340 3.460 1.000000
+een 3.470 3.590 1.000000
+<sil> 3.600 4.020 1.000000
+tafel 4.030 4.650 1.000000
+waarvan 4.660 6.080 1.000000
+de 6.090 6.170 1.000000
+helft 6.180 6.670 1.000000
+brandt 6.680 7.190 1.000000
+<sil> 7.200 7.710 1.000000

@@ -1,0 +1,11 @@
+een boekenkast met daarop verschillende kleuren bekers
+<sil> 0.000 3.050 1.000000
+een 3.060 3.280 1.000000
+boekenkast 3.290 4.080 1.000000
+<sil> 4.090 4.230 1.000000
+met 4.240 4.520 1.000000
+daarop 4.530 4.840 1.000000
+verschillende 4.850 5.330 1.000000
+kleuren 5.340 5.660 1.000000
+bekers 5.670 6.310 1.000000
+<sil> 6.320 6.830 1.000000

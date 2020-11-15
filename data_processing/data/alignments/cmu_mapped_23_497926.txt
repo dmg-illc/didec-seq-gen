@@ -1,0 +1,14 @@
+klein jongetje die op een motor zit die de hendels probeert te pakken
+klein 0.000 2.560 1.000000
+jongetje 2.570 2.940 1.000000
+die 2.950 3.120 1.000000
+op 3.130 3.200 1.000000
+een 3.210 3.440 1.000000
+motor 3.450 4.030 1.000000
+zit 4.040 4.650 1.000000
+die 4.660 5.490 1.000000
+de 5.500 5.590 1.000000
+hendels 5.600 6.280 1.000000
+probeert 6.290 6.670 1.000000
+te 6.680 6.830 1.000000
+pakken 6.840 8.210 1.000000

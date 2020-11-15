@@ -1,0 +1,17 @@
+een pizza restaurant waar pizza's uit de oven worden gehaald en op borden worden gezet
+een 3.970 4.380 1.000000
+<sil> 4.390 4.410 1.000000
+pizza 4.420 4.700 1.000000
+restaurant 4.710 5.340 1.000000
+waar 5.350 5.550 1.000000
+pizza's 5.560 6.060 1.000000
+uit 6.070 6.210 1.000000
+de 6.220 6.330 1.000000
+oven 6.340 6.510 1.000000
+worden 6.520 6.690 1.000000
+gehaald 6.700 6.950 1.000000
+en 6.960 7.030 1.000000
+op 7.040 7.130 1.000000
+borden 7.140 7.380 1.000000
+worden 7.390 7.640 1.000000
+gezet 7.650 8.150 1.000000
