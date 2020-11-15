@@ -36,6 +36,7 @@ For finetuning:
 CAPLENS, CAPTIONS, FEATS, REFS, ids files with _didec extension for all 3 splits.
 
 ALGFEATS (features of image masked with sequential masks aligned with uttered words)
+
 MASKFEATS (features of image masked with a single aggregated mask)
 
 Building on the PyTorch implementation of bottom-up and top-down attention for image captioning model at [https://github.com/poojahira/image-captioning-bottom-up-top-down](https://github.com/poojahira/image-captioning-bottom-up-top-down).
@@ -51,4 +52,4 @@ Bottom-up features downloaded from [https://imagecaption.blob.core.windows.net/i
 ---
 Emiel van Miltenburg, Ákos Kádár, Ruud Koolen, and Emiel Krahmer. 2018. DIDEC: The Dutch Image Description and Eye-tracking Corpus. In Proceedings of the 27th International Conference on Computational Linguistics (COLING), pages 3658–3669. Association for Computational Linguistics
 
-Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen Gould, and Lei Zhang. 2018. Bottom-up and top-down attention for image captioning and VQA. 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 6077–6086.
+Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen Gould, and Lei Zhang. 2018. Bottom-Up and Top-Down Attention for Image Captioning and VQA. 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 6077–6086.
