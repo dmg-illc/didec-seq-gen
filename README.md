@@ -4,8 +4,6 @@ Repository for the EMNLP 2020 paper ['Generating Image Descriptions via Sequenti
 
 For any questions regarding the contents of this repository, please contact Ece Takmaz at <ece.takmaz@uva.nl>.
 
-\~Currently under construction\~
-
 You can find more details in the README files of each subdirectory.
 
 For more details on the models (architectures, training and evaluation) look at **description_generation**. 
