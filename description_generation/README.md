@@ -17,7 +17,7 @@ To pretrain the model on translated MS COCO:
 
 ``python train_image_COCONL.py -learning_rate 0.0001 -batch_size 128 -dropout 0.0 -shuffle_flag -emb_dim 1024 -epochs 100 -data_folder final_dataset -metric cider``
 
-The selected pretrained model is 'model_COCONLimage_cider_2019-10-31-13-53-9.pkl'. To further finetune on this model, an example command would be:
+The selected pretrained model is ['model_COCONLimage_cider_2019-10-31-13-53-9.pkl'](model_COCONLimage_cider_2019-10-31-13-53-9.pkl). To further finetune on this model, an example command would be:
 
 ``python train_pretrained_2RNN_NEWMETR.py -seed 42 -checkpoint 'model_COCONLimage_cider_2019-10-31-13-53-9.pkl' -learning_rate 0.0001 -batch_size 64 -dropout 0.0 -shuffle_flag -emb_dim 1024 -epochs 100 -data_folder final_dataset -metric ours``
 
