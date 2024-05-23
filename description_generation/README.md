@@ -4,12 +4,12 @@ Repository for the EMNLP 2020 paper ['Generating Image Descriptions via Sequenti
 
 This subdirectory contains the model definitions and scripts for training and evaluating these models, building on the PyTorch implementation of the Bottom-Up and Top-Down Attention for Image Captioning model by Anderson et al. (2018) at [https://github.com/poojahira/image-captioning-bottom-up-top-down](https://github.com/poojahira/image-captioning-bottom-up-top-down).
 
-I will list the requirements later and share the large data files as well as trained model files.
+Large data files (final_dataset) can be found here: https://drive.google.com/drive/folders/1kZXtP3w9UqAwVmmOGWmpT8_8rPDSwmmE?usp=sharing 
 
 Model names:
 - model_image: Used in pretraining the model on translated MS COCO
-- model_pret_image: Identical to model_image (used in finetuning on DIDEC)
-- model_pret_gaze_SM: **NO-GAZE** - The model that takes features of an image masked with an aggregated saliency maps
+- model_pret_image: **NO-GAZE** - Identical to model_image (used in finetuning on DIDEC)
+- model_pret_gaze_SM: **GAZE-AGG** - The model that takes features of an image masked with an aggregated saliency maps
 - model_pret_gaze_RNN: **GAZE-SEQ** - The model that takes features of an image masked with an sequential saliency maps
 - model_pret_gaze_2RNN: **GAZE-2SEQ** - The model that has an additional LSTM processing gaze-conditioned image features
 
